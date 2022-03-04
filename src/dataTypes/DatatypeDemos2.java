@@ -1,3 +1,5 @@
+package dataTypes;
+
 public class DatatypeDemos2 {
     public static void main(String[] args) {
         byte b1 = 127;
