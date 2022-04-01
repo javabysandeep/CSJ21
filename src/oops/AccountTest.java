@@ -2,7 +2,8 @@ package oops;
 
 public class AccountTest {
     public static void main(String[] args) {
-        BankAccount account = new BankAccount();
+//        BankAccount account = new BankAccount();
+        BankAccount account = new BankAccount(1,"Sachin",101,10000);
         System.out.println(account.bankAccountHolderName);
         System.out.println(account.bankAccountNumber);
         System.out.println(account.balance);
