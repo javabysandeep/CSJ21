@@ -13,6 +13,7 @@ public class AccountTest {
         System.out.println("Balance after deposit "+availableBalance);
         float updatedBalance = account.withdraw(730);
         System.out.println("Balance after withdraw "+updatedBalance);
+        //display();
     }
 
     void display(){
