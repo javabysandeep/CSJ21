@@ -1,4 +1,4 @@
-package oops;
+package oops.classComponents;
 
 public class NestedClassDemo {
     public static void main(String[] args) {

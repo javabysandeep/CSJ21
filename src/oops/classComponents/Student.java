@@ -1,4 +1,4 @@
-package oops;
+package oops.classComponents;
 
 class Student {
     int studentId;

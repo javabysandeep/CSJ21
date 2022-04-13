@@ -1,4 +1,4 @@
-package oops;
+package oops.classComponents;
 
 public class BankAccount {
     int bankAccountNumber;

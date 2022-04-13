@@ -1,4 +1,4 @@
-package oops;
+package oops.classComponents;
 
 public class Outer {
      int outerVar = 100;

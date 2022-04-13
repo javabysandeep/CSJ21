@@ -1,4 +1,4 @@
-package oops;
+package oops.classComponents;
 
 public class Constant {
     static String username = "user";

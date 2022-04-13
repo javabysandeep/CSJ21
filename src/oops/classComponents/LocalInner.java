@@ -1,4 +1,4 @@
-package oops;
+package oops.classComponents;
 
 public class LocalInner {
     public static void main(String[] args) {
