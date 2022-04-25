@@ -7,4 +7,7 @@ public interface I1 {
     class NestedClass{
         int nestedNumber = 300;
     }
+    default void print(){
+        System.out.println("printing I1");
+    }
 }
