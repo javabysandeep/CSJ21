@@ -1,6 +1,7 @@
 package oops.abstraction;
 
 public interface MessageService {
+
     //fully un-implemented class
 
     public static final int messageCounter = 100;
@@ -16,6 +17,7 @@ public interface MessageService {
 
     }
     //void im(){}
+
 
     // by default methods in the interface are public abstract
     void sendMessage(String message);
