@@ -12,6 +12,7 @@ public class HashCodeDemo {
 
         student1.studentId = 100;
         student1.studentName = "Bhavana";
+        System.out.println(student1);
         System.out.println(student1.toString());
     }
 }
