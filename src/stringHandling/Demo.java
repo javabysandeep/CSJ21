@@ -9,3 +9,16 @@ public class Demo {
         String s4 ="abc";
     }
 }
+class Employee{
+    //Composition >> Has A type of Relationship
+    Address address;
+    //Aggregation --> Inheritance --> IS-A Type
+
+}
+class Address{
+    String city;
+    String state;
+    String Country;
+    int pincode;
+    String street;
+}

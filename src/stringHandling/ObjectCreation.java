@@ -20,6 +20,8 @@ public class ObjectCreation {
         System.out.println(s7==s8);//true
         System.out.println(s5==s8);//true
 
+        System.out.println(s5.toString());
+        System.out.println(s5.length());
 
     }
 }
