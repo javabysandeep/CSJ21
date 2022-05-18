@@ -12,10 +12,11 @@ public class DefaultExceptionHandling {
 //        --->  This object is given to default exception handler.
         // DEH ---> prints the content of the object and terminates
         // the abnormally.
-        int[] array = new int[-20];// NegativeArraySizeException
+        int[] array = new int[20];// NegativeArraySizeException
         //System.out.println(10/0);
         System.out.println("abc");
         System.out.println("abc");
+        System.out.println(10/-12);
 
 
     }
