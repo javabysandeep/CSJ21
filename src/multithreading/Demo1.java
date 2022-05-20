@@ -17,6 +17,7 @@ public class Demo1 {
         }
         //Another way to create thread.
         Runnable runnable = ()->{
+            //run method overridden
             for (int i = 0; i <9 ; i++) {
                 System.out.println(Thread.currentThread().getName());
             }
