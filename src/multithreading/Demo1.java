@@ -37,3 +37,12 @@ class Task extends Thread {
         }
     }
 }
+class Task2 extends Thread {
+    @Override
+    //job of custom thread.
+    public void run() {
+        for (int i = 0; i <10 ; i++) {
+            System.out.println(Thread.currentThread().getName());
+        }
+    }
+}

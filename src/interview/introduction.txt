@@ -1,0 +1,15 @@
+30 min
+Introduction [2 minutes]
+	Resume summary
+		- what are you currently?
+			I am Swapnil Sonawane.
+			I have completed my bachelors in mech eng in 2019 from Pune university
+			I have completed my software development course in Java technologies from CS
+			Experience: I have two years of experience in software development using java tech
+			Project:
+		- what you are capable of
+			I can develop web and distributed applications with the help Java 8, Hibernate, Spring, Spring MVC, REST, Spring Boot
+		- what can you do for company
+			- I am ready to learn technologies which help me solve problems.
+		- what you are expecting
+			- I am looking for opportunity where I can learn new skills and apply that
