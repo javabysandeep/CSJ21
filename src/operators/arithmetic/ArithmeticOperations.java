@@ -1,5 +1,7 @@
 package operators.arithmetic;
 
+import java.math.BigInteger;
+
 public class ArithmeticOperations {
     public static void main(String[] args) {
         System.out.println('A'+'A');//130
@@ -8,6 +10,10 @@ public class ArithmeticOperations {
         System.out.println('A'+135l);//200l
         System.out.println('A'/10);//6
         System.out.println('A'%10);//5
+        int number1 = 10;
+        // number1 ---> 123456789
+        int number2 = 20;
+
     }
 }
 
