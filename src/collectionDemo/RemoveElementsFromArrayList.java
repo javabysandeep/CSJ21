@@ -20,6 +20,9 @@ public class RemoveElementsFromArrayList {
                 arrayList.remove(Integer.valueOf(10));
             }
         }
+        // Fail-fast fail-safe
+        //ArrayList, LinkedList, vector, Stack[Push,pop, peek]
+        //Cursors--> Iterator, ListIterator, Enumaration
 
     }
 }
