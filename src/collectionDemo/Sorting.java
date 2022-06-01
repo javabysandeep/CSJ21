@@ -33,7 +33,7 @@ public class Sorting {
         for (Product product:productList) {
             System.out.println(product);
         }
-        int compare = lambda.compare(product1, product2);
+        lambda.compare(product1, product2);
     }
 }
 class ProductSorter implements Comparator<Product>{
