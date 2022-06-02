@@ -1,4 +1,4 @@
-package collectionDemo;
+package collectionDemo.listDemos;
 
 class Episode /*implements Comparable<Episode>*/ {
     int episodeNumber;

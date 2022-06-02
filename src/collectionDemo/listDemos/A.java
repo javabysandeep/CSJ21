@@ -1,4 +1,4 @@
-package collectionDemo.itr;
+package collectionDemo.listDemos;
 
 public class A {
     private class B implements I1 {

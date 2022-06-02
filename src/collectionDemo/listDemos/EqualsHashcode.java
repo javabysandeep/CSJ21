@@ -1,4 +1,4 @@
-package collectionDemo;
+package collectionDemo.listDemos;
 
 public class EqualsHashcode {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package collectionDemo.itr;
+package collectionDemo.listDemos;
 
 public interface I1 {
     boolean hasNext();

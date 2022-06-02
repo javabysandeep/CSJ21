@@ -1,4 +1,4 @@
-package collectionDemo;
+package collectionDemo.listDemos;
 
 public class Employee implements Comparable<Employee>{
     private Integer employeeId;
